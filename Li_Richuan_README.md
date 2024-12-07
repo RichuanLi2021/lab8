@@ -3,9 +3,10 @@
 **[Optional]** If what is being submitted is an individual Lab or Assignment. Otherwise, include a brief one paragraph description about the project.
 
 * *Date Created*: 4 Dec 2024
-* *Last Modification Date*: 6 Dec 2024
-* *Timberlea URL*: <https://web.cs.dal.ca/~richuan/csci3172/labs/lab8/index.html>
-* *GitLab URL*: <https://git.cs.dal.ca/richuan/2024fall_csci3172/-/tree/main/3172/labs/lab8>
+* Last Modification Date*: 6 Dec 2024
+* Timberlea URL: <https://web.cs.dal.ca/~richuan/csci3172/labs/lab8/index.html>
+* GitLab URL: <https://git.cs.dal.ca/richuan/2024fall_csci3172/-/tree/main/3172/labs/lab8>
+* Netlify: <https://myreactlab.netlify.app>
 
 
 ## Authors
